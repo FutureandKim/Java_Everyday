@@ -1,4 +1,4 @@
-package Bronze5;
+package Bronze.Bronze5;
 import java.util.Scanner;
 
 public class B5_2558 {
