@@ -32,6 +32,7 @@ public class Math_15649 {
                 visit[i] = true;
                 arr[depth] = i+1;
                 dfs(N, M, depth+1);
+                
                 visit[i] = false;
             }
         }
